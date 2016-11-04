@@ -25,9 +25,9 @@ Problem Statement:
 -----------------
 The challenge is to take the time varying images (left) and extract regions of interest (right) that correspond to individual neurons.
 
-Datasets:
+Dataset:
 --------
-The datasets were taken from 
+The datasets were taken from http://neurofinder.codeneuro.org/ which includes 19 training sets and 9 test sets.
 
 Preprocessing:
 -------------
