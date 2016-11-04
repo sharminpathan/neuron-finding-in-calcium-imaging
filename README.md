@@ -84,7 +84,7 @@ Tuning the accuracy:
 Performance:
 -----------
 
-
+![screenshot](https://cloud.githubusercontent.com/assets/20985174/20021685/37d7fcc0-a294-11e6-9137-9cc764d04f4c.png)
 
 Stuff we tried:
 --------------
