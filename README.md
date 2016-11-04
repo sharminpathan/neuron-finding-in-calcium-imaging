@@ -10,6 +10,7 @@ Technologies Used:
 -----------------
     Python 2.7
     Thunder
+    Apache Spark
     Matplotlib
     Median Filtering
     NMF
@@ -23,6 +24,10 @@ Calcium Imaging is a dominant technique in modern neuroscience for measuring act
 Problem Statement: 
 -----------------
 The challenge is to take the time varying images (left) and extract regions of interest (right) that correspond to individual neurons.
+
+Datasets:
+--------
+The datasets were taken from 
 
 Preprocessing:
 -------------
@@ -49,6 +54,10 @@ Flow:
 
 Execution:
 ---------
+- Ensure the following are installed
+    - Thunder
+    - Apache Spark
+    - Matplotlib
 - The program takes four command line arguments, namely
     - name of the dataset
     - no. of components to estimate per block
@@ -60,6 +69,9 @@ Tuning the accuracy:
 -------------------
 - We applied different chunk sizes and padding for different datasets since their sizes varied in terms of the no. of images.
 - Applied median filtering
+
+Performance:
+-----------
 
 Stuff we tried:
 --------------
