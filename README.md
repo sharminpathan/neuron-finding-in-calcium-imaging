@@ -68,6 +68,11 @@ Execution:
 Tuning the accuracy:
 -------------------
 - We applied different chunk sizes and padding for different datasets since their sizes varied in terms of the no. of images.
+    | Tables        | Are           | Cool  |
+    | ------------- |:-------------:| -----:|
+    | col 3 is      | right-aligned | $1600 |
+    | col 2 is      | centered      |   $12 |
+    | zebra stripes | are neat      |    $1 |
 - Applied median filtering
 
 Performance:
