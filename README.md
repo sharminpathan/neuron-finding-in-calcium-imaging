@@ -93,7 +93,6 @@ Stuff we tried:
 
 Extras:
 ------
-- Made a submission with the name 'crazy frog' on Autolab.
 - Made a submission on codeneuro
 
 Challenges:
