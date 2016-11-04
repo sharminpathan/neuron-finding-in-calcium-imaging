@@ -54,7 +54,7 @@ Execution:
     - no. of components to estimate per block
     - chunk size
     - padding
-For example: python neuro.py 00.00.test 5 50 25
+- For example: python neuro.py 00.00.test 5 50 25
 
 Tuning the accuracy:
 -------------------
@@ -73,5 +73,5 @@ Extras:
 
 Challenges:
 ----------
-- It was difficult to come up with the possible image preprocessing techniques that could be applied.
-- Understandind Calcium Imaging and related sciences.
+- It was difficult to come up with possible image preprocessing techniques that could be applied.
+- Understanding Calcium Imaging and related sciences.
