@@ -84,6 +84,8 @@ Tuning the accuracy:
 Performance:
 -----------
 
+
+
 Stuff we tried:
 --------------
 - Tried coverting the images to grayscale. But, on studying the NMF algorithm and the datasets, we got to know that the images were already into grayscale format with channel=1
