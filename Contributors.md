@@ -22,3 +22,4 @@ Chirag Jain
 - Used Google cloud platform to run the project
 - Used Spark for making it distributed
 - Contributed in exploring image preprocessing techniques.
+- Code neuro submission
