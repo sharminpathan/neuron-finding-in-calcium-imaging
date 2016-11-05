@@ -28,7 +28,7 @@ sc=spark.sparkContext;
 #Specifying the path and getting images
 #######################
 path = '/neurofinder.' + sys.argv[1] + '.test'
-data = td.images.fromtif(path + '/images', stop=10, ext='tiff', engine=sc, npartitions= 10).median_filter(3)
+data = td.images.fromtif(path + '/images', stop=10, ext='tiff', engine=sc, npartitions= 10)
 
 ###############
 #Applying NMF Algorithm
