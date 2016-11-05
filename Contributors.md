@@ -16,3 +16,9 @@ Sharmin Pathan
 - Tried image registration
 
 Chirag Jain
+- Understanding Calcium Imaging and related aspects of Neuroscience from the research papers for implementation.
+- Implementing NMF
+- Computing the parameters for tuning the accuracy
+- Used Google cloud platform to run the project
+- Used Spark for making it distributed
+- Contributed in exploring image preprocessing techniques.
