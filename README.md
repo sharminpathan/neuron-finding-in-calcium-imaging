@@ -1,8 +1,8 @@
 #Neuron Finding
 
-Team members: Chirag Jain, Sharmin Pathan
-
 Team name - minions
+
+Team members: Chirag Jain, Sharmin Pathan
 
 Approach: NMF and median filtering to find neurons in calcium imaging data
 
