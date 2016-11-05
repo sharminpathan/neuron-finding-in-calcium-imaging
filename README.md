@@ -86,6 +86,10 @@ Performance:
 
 ![screenshot](https://cloud.githubusercontent.com/assets/20985174/20021685/37d7fcc0-a294-11e6-9137-9cc764d04f4c.png)
 
+References taken: 
+-----------------
+We took reference from freeman's lab nmf.
+
 Stuff we tried:
 --------------
 - Tried coverting the images to grayscale. But, on studying the NMF algorithm and the datasets, we got to know that the images were already into grayscale format with channel=1
