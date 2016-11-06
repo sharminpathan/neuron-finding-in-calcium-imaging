@@ -1,5 +1,6 @@
 import thunder as td
 import json
+import matplotlib
 from extraction import NMF
 from pyspark import SparkContext
 
