@@ -1,8 +1,5 @@
-import matplotlib
 import thunder as td
 import json
-import sys
-import neurofinder
 from extraction import NMF
 from pyspark import SparkContext
 
